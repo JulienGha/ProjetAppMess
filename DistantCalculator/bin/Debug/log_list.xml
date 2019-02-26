@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAccount xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Account>
+    <Nom>jerem</Nom>
+    <Pswd>israel</Pswd>
+  </Account>
+  <Account>
+    <Nom>julien</Nom>
+    <Pswd>123</Pswd>
+  </Account>
+  <Account>
+    <Nom>jeremy</Nom>
+    <Pswd>palestine</Pswd>
+  </Account>
+  <Account>
+    <Nom>etienne</Nom>
+    <Pswd />
+    <Cho>2</Cho>
+  </Account>
+  <Account>
+    <Nom>line</Nom>
+    <Pswd>julien</Pswd>
+    <Cho>2</Cho>
+  </Account>
+  <Account>
+    <Nom>testeur</Nom>
+    <Pswd>test</Pswd>
+    <Cho>2</Cho>
+  </Account>
+</ArrayOfAccount>

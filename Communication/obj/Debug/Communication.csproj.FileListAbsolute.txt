@@ -1,0 +1,11 @@
+C:\Users\Christian\Documents\Visual Studio 2015\Projects\DistantCalculator\Communication\bin\Debug\Communication.dll
+C:\Users\Christian\Documents\Visual Studio 2015\Projects\DistantCalculator\Communication\bin\Debug\Communication.pdb
+C:\Users\Christian\Documents\Visual Studio 2015\Projects\DistantCalculator\Communication\obj\Debug\Communication.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Documents\Visual Studio 2015\Projects\DistantCalculator\Communication\obj\Debug\Communication.dll
+C:\Users\Christian\Documents\Visual Studio 2015\Projects\DistantCalculator\Communication\obj\Debug\Communication.pdb
+C:\Users\julie\Documents\EFREI\C#\DistantCalculator\Communication\bin\Debug\Communication.dll
+C:\Users\julie\Documents\EFREI\C#\DistantCalculator\Communication\bin\Debug\Communication.pdb
+C:\Users\julie\Documents\EFREI\C#\DistantCalculator\Communication\obj\Debug\Communication.csprojAssemblyReference.cache
+C:\Users\julie\Documents\EFREI\C#\DistantCalculator\Communication\obj\Debug\Communication.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\EFREI\C#\DistantCalculator\Communication\obj\Debug\Communication.dll
+C:\Users\julie\Documents\EFREI\C#\DistantCalculator\Communication\obj\Debug\Communication.pdb

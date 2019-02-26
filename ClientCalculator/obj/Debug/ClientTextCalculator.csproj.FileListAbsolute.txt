@@ -1,0 +1,8 @@
+C:\Users\Christian\Documents\Visual Studio 2015\Projects\DistantCalculator\ClientCalculator\bin\Debug\ClientCalculator.exe.config
+C:\Users\Christian\Documents\Visual Studio 2015\Projects\DistantCalculator\ClientCalculator\bin\Debug\ClientCalculator.exe
+C:\Users\Christian\Documents\Visual Studio 2015\Projects\DistantCalculator\ClientCalculator\bin\Debug\ClientCalculator.pdb
+C:\Users\Christian\Documents\Visual Studio 2015\Projects\DistantCalculator\ClientCalculator\bin\Debug\Communication.dll
+C:\Users\Christian\Documents\Visual Studio 2015\Projects\DistantCalculator\ClientCalculator\bin\Debug\Communication.pdb
+C:\Users\Christian\Documents\Visual Studio 2015\Projects\DistantCalculator\ClientCalculator\obj\Debug\ClientTextCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Documents\Visual Studio 2015\Projects\DistantCalculator\ClientCalculator\obj\Debug\ClientCalculator.exe
+C:\Users\Christian\Documents\Visual Studio 2015\Projects\DistantCalculator\ClientCalculator\obj\Debug\ClientCalculator.pdb

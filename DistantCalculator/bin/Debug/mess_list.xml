@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPrivatemess xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <privatemess>
+    <From>julien</From>
+    <To>julien</To>
+    <Content>alpha</Content>
+  </privatemess>
+  <privatemess>
+    <From>julien</From>
+    <To>julien</To>
+    <Content>beta</Content>
+  </privatemess>
+  <privatemess>
+    <From>julien</From>
+    <To>julien</To>
+    <Content>salut bg</Content>
+  </privatemess>
+  <privatemess>
+    <From>jerem</From>
+    <To>julien</To>
+    <Content>pourquoi tu ne m'écris pas ?</Content>
+  </privatemess>
+  <privatemess>
+    <From>julien</From>
+    <To>julien</To>
+    <Content>t'es le plus beau </Content>
+  </privatemess>
+  <privatemess>
+    <From>jerem</From>
+    <To>julien</To>
+    <Content>toujours rien ...</Content>
+  </privatemess>
+  <privatemess>
+    <From>julien</From>
+    <To>jerem</To>
+    <Content>coucou</Content>
+  </privatemess>
+  <privatemess>
+    <From>etienne</From>
+    <To>julien</To>
+    <Content>envoie un msg stp ...</Content>
+  </privatemess>
+  <privatemess>
+    <From>line</From>
+    <To>julien</To>
+    <Content>jme sens seule</Content>
+  </privatemess>
+  <privatemess>
+    <From>line</From>
+    <To>line</To>
+    <Content>je suis seule</Content>
+  </privatemess>
+  <privatemess>
+    <From>julien</From>
+    <To>julien</To>
+    <Content>salut</Content>
+  </privatemess>
+  <privatemess>
+    <From>testeur</From>
+    <To>testeur</To>
+    <Content>salut c'est moi (toi)</Content>
+  </privatemess>
+</ArrayOfPrivatemess>

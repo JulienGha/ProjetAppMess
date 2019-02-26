@@ -1,0 +1,18 @@
+c:\users\christian\documents\visual studio 2015\Projects\DistantCalculator\DistantCalculator\bin\Debug\DistantCalculator.exe.config
+C:\Users\Christian\Documents\Visual Studio 2015\Projects\DistantCalculator\DistantCalculator\obj\Debug\DistantCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Documents\Visual Studio 2015\Projects\DistantCalculator\DistantCalculator\bin\Debug\DistantCalculator.exe
+C:\Users\Christian\Documents\Visual Studio 2015\Projects\DistantCalculator\DistantCalculator\bin\Debug\DistantCalculator.pdb
+C:\Users\Christian\Documents\Visual Studio 2015\Projects\DistantCalculator\DistantCalculator\bin\Debug\Communication.dll
+C:\Users\Christian\Documents\Visual Studio 2015\Projects\DistantCalculator\DistantCalculator\bin\Debug\Communication.pdb
+C:\Users\Christian\Documents\Visual Studio 2015\Projects\DistantCalculator\DistantCalculator\obj\Debug\DistantCalculator.exe
+C:\Users\Christian\Documents\Visual Studio 2015\Projects\DistantCalculator\DistantCalculator\obj\Debug\DistantCalculator.pdb
+C:\Users\julie\Documents\EFREI\C#\DistantCalculator\DistantCalculator\bin\Debug\DistantCalculator.exe.config
+C:\Users\julie\Documents\EFREI\C#\DistantCalculator\DistantCalculator\bin\Debug\DistantCalculator.exe
+C:\Users\julie\Documents\EFREI\C#\DistantCalculator\DistantCalculator\bin\Debug\DistantCalculator.pdb
+C:\Users\julie\Documents\EFREI\C#\DistantCalculator\DistantCalculator\bin\Debug\Communication.dll
+C:\Users\julie\Documents\EFREI\C#\DistantCalculator\DistantCalculator\bin\Debug\Communication.pdb
+C:\Users\julie\Documents\EFREI\C#\DistantCalculator\DistantCalculator\obj\Debug\DistantCalculator.csprojAssemblyReference.cache
+C:\Users\julie\Documents\EFREI\C#\DistantCalculator\DistantCalculator\obj\Debug\DistantCalculator.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\EFREI\C#\DistantCalculator\DistantCalculator\obj\Debug\DistantCalculator.csproj.CopyComplete
+C:\Users\julie\Documents\EFREI\C#\DistantCalculator\DistantCalculator\obj\Debug\DistantCalculator.exe
+C:\Users\julie\Documents\EFREI\C#\DistantCalculator\DistantCalculator\obj\Debug\DistantCalculator.pdb

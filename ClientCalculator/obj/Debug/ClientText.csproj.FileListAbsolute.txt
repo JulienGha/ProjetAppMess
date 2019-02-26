@@ -1,0 +1,10 @@
+C:\Users\julie\Documents\EFREI\C#\DistantCalculator\ClientCalculator\bin\Debug\ClientCalculator.exe.config
+C:\Users\julie\Documents\EFREI\C#\DistantCalculator\ClientCalculator\bin\Debug\ClientCalculator.exe
+C:\Users\julie\Documents\EFREI\C#\DistantCalculator\ClientCalculator\bin\Debug\ClientCalculator.pdb
+C:\Users\julie\Documents\EFREI\C#\DistantCalculator\ClientCalculator\bin\Debug\Communication.dll
+C:\Users\julie\Documents\EFREI\C#\DistantCalculator\ClientCalculator\bin\Debug\Communication.pdb
+C:\Users\julie\Documents\EFREI\C#\DistantCalculator\ClientCalculator\obj\Debug\ClientText.csprojAssemblyReference.cache
+C:\Users\julie\Documents\EFREI\C#\DistantCalculator\ClientCalculator\obj\Debug\ClientText.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\EFREI\C#\DistantCalculator\ClientCalculator\obj\Debug\ClientText.csproj.CopyComplete
+C:\Users\julie\Documents\EFREI\C#\DistantCalculator\ClientCalculator\obj\Debug\ClientCalculator.exe
+C:\Users\julie\Documents\EFREI\C#\DistantCalculator\ClientCalculator\obj\Debug\ClientCalculator.pdb

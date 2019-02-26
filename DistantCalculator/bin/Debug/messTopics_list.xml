@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTopic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Topic>
+    <Name>Le premier</Name>
+    <Priority>true</Priority>
+  </Topic>
+  <Topic>
+    <Name>deuxieme</Name>
+    <Priority>false</Priority>
+  </Topic>
+  <Topic>
+    <Name>trois</Name>
+    <Priority>false</Priority>
+  </Topic>
+  <Topic>
+    <Name>quater</Name>
+    <Priority>false</Priority>
+  </Topic>
+  <Topic>
+    <Name>cinq</Name>
+    <Priority>false</Priority>
+  </Topic>
+  <Topic>
+    <Name>pour</Name>
+    <Priority>false</Priority>
+  </Topic>
+  <Topic>
+    <Name>prems</Name>
+    <Priority>false</Priority>
+  </Topic>
+  <Topic>
+    <Name>bulle</Name>
+    <Priority>false</Priority>
+  </Topic>
+  <Topic>
+    <Name>try</Name>
+    <Priority>false</Priority>
+  </Topic>
+  <Topic>
+    <Name>help</Name>
+    <Priority>false</Priority>
+  </Topic>
+  <Topic>
+    <Name>testeurtest</Name>
+    <Priority>false</Priority>
+  </Topic>
+</ArrayOfTopic>
